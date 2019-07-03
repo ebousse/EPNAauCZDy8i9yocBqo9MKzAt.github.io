@@ -4,5 +4,5 @@
 
 # Resources
 
- - [Complete translational semantics for temporal patterns (25 rules)](https://github.com/EPNAauCZDy8i9yocBqo9MKzAt/EPNAauCZDy8i9yocBqo9MKzAt.github.io/blob/master/Runtime_Monitoring_for_Executable_DSLs__Full_Semantics.pdf)
+ - [Complete translational semantics for temporal patterns (25 rules)](https://raw.githubusercontent.com/EPNAauCZDy8i9yocBqo9MKzAt/EPNAauCZDy8i9yocBqo9MKzAt.github.io/master/Runtime_Monitoring_for_Executable_DSLs__Full_Semantics.pdf)
  - Code & Evaluation materials : coming soon (July 5th at the latest, our apologies for the delay)
