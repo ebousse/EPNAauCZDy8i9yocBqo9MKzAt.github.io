@@ -2,5 +2,8 @@
 title: Runtime Monitoring for Executable DSLs
 description: Companion webpage for submitting to SLE'19 
 theme: jekyll-theme-minimal
-site.github.is_project_page: false
-site.github.is_user_page: false
+
+site:
+  github:
+    is_user_page: false
+    s_project_page: false
