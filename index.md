@@ -1,0 +1,7 @@
+# Runtime Monitoring for Executable DSLs - SLE'19 - Companion Webpage
+
+> Runtime monitoring is a fundamental technique used throughout the lifecycle of a system for many purposes, such as debugging, testing, or live analytics. While runtime monitoring for general purpose programming languages has seen a great amount of research, developing such complex facilities for any executable Domain Specific Language (DSL) remains a challenging, reoccurring and error prone task. A generic solution must both support a wide range of executable DSLs and induce as little execution time overhead as possible. Our contribution is a fully generic approach based on a temporal property language with a semantics tailored for runtime verification. Properties can be compiled to efficient runtime monitors that can be attached to any kind of executable model. Efficiency is bolstered using a novel combination of structural model queries and complex event processing. Our evaluation shows that the approach is applicable with an average execution time overhead ranging from 53% (with around 3 model changes per execution state) to 87.5% (with between 100 to 400 model changes per execution state), with no noticeable overhead induced by increased execution length.
+
+ - Complete execution semantics available [here](https://github.com/EPNAauCZDy8i9yocBqo9MKzAt/EPNAauCZDy8i9yocBqo9MKzAt.github.io/blob/master/Runtime_Monitoring_for_Executable_DSLs__Full_Semantics.pdf)
+ - Code : coming soon
+ - Evaluation materials : coming soon
