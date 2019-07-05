@@ -30,7 +30,7 @@
  - Still in the nested Eclipse application, import the `org.eclipse.gemoc.benchmark.property.monitor` project from the `eval/plugins` folder
  - Open the `BenchmarkSingleJVMTestSuite` class  from the `org.eclipse.gemoc.benchmark.property.monitor` project and complete the missing static fields with: 
     - your java home, 
-    - the path to your gemoc launcher (e.g. `/home/\<username\>/Downloads/gemoc-studio/plugins/org.eclipse.equinox.launcher_1.5.0.v20180512-1130.jar`), 
+    - the path to your gemoc launcher (e.g. `/home/<username>/Downloads/gemoc-studio/plugins/org.eclipse.equinox.launcher_1.5.0.v20180512-1130.jar`), 
     - the path to the current workspace,
     - the path where you want to write the output of the evaluation
  - Run the `BenchmarkSingleJVMTestSuite` as a *JUnit Plug-in Test* (this step is necessary to automatically launch tests)
