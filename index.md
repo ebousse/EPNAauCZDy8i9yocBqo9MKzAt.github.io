@@ -9,29 +9,29 @@
 
 # Running the evaluation
 
-Preparing the GEMOC Studio
+## Preparing the GEMOC Studio
 
  - Download the latest version of the GEMOC Studio: (http://gemoc.org/download.html)
  - Install VIATRA on top of the GEMOC Studio: (https://www.eclipse.org/viatra/downloads.html)
  - Start the GEMOC Studio in a new workspace
 
-Getting the benchmark code
+## Getting the benchmark code
 
  - Download and extract the zip containing the code and evaluation materials
  - Import the projects contained in the "plugins" and "eval/plugins" folders into the current workspace of the GEMOC Studio
 
-Configuring the Activity Diagram language
+## Configuring the Activity Diagram language
 
  - Start a new Eclipse application inside the opened GEMOC Studio using the "Eclipse Application" launch configuration type
  - In this new workspace, import the 8 projects contained in the "eval/language" folder
 
-Configuring the benchmark code
+## Configuring the benchmark code
 
  - Still in the nested Eclipse application, import the "org.eclipse.gemoc.benchmark.property.monitor" project from the "eval/plugins" folder
  - Open the "BenchmarkSingleJVMTestSuite" class  from the "org.eclipse.gemoc.benchmark.property.monitor" project and complete the missing static fields with: your java home, the path to your gemoc launcher (e.g. "/home/\<username\>/Downloads/gemoc-studio/plugins/org.eclipse.equinox.launcher_1.5.0.v20180512-1130.jar"), the path to the current workspace, and the path where you want to write the output of the evaluation
  - Run the "BenchmarkSingleJVMTestSuite" as a JUnit Plug-in Test (this step is necessary to automatically launch tests)
  - Close the nested Eclipse application
 
-Running the benchmark
+## Running the benchmark
 
  - Run the "BenchmarkTimeTestSuite" from the "org.eclipse.gemoc.benchmark.property.monitor" project as a JUnit Test
