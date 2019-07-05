@@ -7,6 +7,13 @@
  - [Complete translational semantics for temporal patterns (25 rules)](https://raw.githubusercontent.com/EPNAauCZDy8i9yocBqo9MKzAt/EPNAauCZDy8i9yocBqo9MKzAt.github.io/master/Runtime_Monitoring_for_Executable_DSLs__Full_Semantics.pdf)
  - [Code & Evaluation materials](https://github.com/EPNAauCZDy8i9yocBqo9MKzAt/EPNAauCZDy8i9yocBqo9MKzAt.github.io/raw/master/evaluation_materials.zip)
 
+# Tool support presentation
+
+As explained in the paper, we implemented our approach as a tool provided inside the GEMOC Studio, an Eclipse-based language and modeling workbench to design executable DSLs and execute conforming models. Here is a screenshot of the GEMOC Studio when debugging and monitoring properties on an Activity Diagram model taken from the evaluation materials:
+
+![Screenshot of an Activity Diagram being monitored](https://raw.githubusercontent.com/EPNAauCZDy8i9yocBqo9MKzAt/EPNAauCZDy8i9yocBqo9MKzAt.github.io/master/runtime_monitor.png)
+
+
 # Running the evaluation
 
 ## Preparing the GEMOC Studio
