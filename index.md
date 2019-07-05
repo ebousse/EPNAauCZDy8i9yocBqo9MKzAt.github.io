@@ -11,8 +11,8 @@
 
 ## Preparing the GEMOC Studio
 
- - Download the latest version of the GEMOC Studio: (http://gemoc.org/download.html)
- - Install VIATRA on top of the GEMOC Studio: (https://www.eclipse.org/viatra/downloads.html)
+ - Download the latest version of the GEMOC Studio: [http://gemoc.org/download.html](http://gemoc.org/download.html)
+ - Install VIATRA on top of the GEMOC Studio: [https://www.eclipse.org/viatra/downloads.html](https://www.eclipse.org/viatra/downloads.html)
  - Start the GEMOC Studio in a new workspace
 
 ## Getting the benchmark code
